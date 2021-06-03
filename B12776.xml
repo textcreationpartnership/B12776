@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation for preseruation of vvoods.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12776</idno><idno type="EEBO-CITATION">99892803</idno>
+  <idno type="VID">187195</idno>
+  <idno type="EEBO-PROQUEST">2240925233</idno>
+  
+            <idno type="STC">STC 8429</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[99]</idno>
+            <idno type="PROQUEST">ocm99892803</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892803e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12776)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187195)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[99])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation for preseruation of vvoods.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1608. [i.e. 1609]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dates are given according to Lady Day dating; imprint from colophon.</note>
+                  <note>Dated at end: Royston the xiiij. day of February, in the sixt yeere of our reigne ...</note>
+                  <note>Forbidding the selling of timber trees on royal lands and elsewhere. Cf. STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Forestry law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Amanda Flynn</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:187195:1"/>
+            <head>❧ By the King.</head>
+            <head type="sub">¶ A Proclamation for preseruation of Woods.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>Orasmuch as by a late view and suruey had and</hi> made of the most part of our Woods in diuers Counties of this Realme, It is certified vnto vs that great spoyles and deuastations are committed, both within our Forrests, Chaces, Parks and Wasts, not onely by bordering Inhabitants, but euen by Woodwards, kee<g ref="char:EOLhyphen"/>pers, and other of our owne inferiour Officers, such as ought to haue had the chiefe care of the preseruation thereof, and also in and vpon our Mannours, Lordships and demesne Lands, by Tenants, Bailiffes and Reeues, by their vn<g ref="char:EOLhyphen"/>iust taking, and improuident assigning Timber trees and Woods, farre beyond all reasonable proportion of allowance: And forasmuch also as diuers apparant abuses, are likewise committed in the said places by sundry sinister practises to decay our said Woods, and to make them Winde<g ref="char:EOLhyphen"/>fals and pretended Fees; the continuance whereof hath bene so long and dangerous, as without present reformation, there is like suddenly to follow such want of Timber and Wood as by no fu<g ref="char:EOLhyphen"/>ture prouidence can be in meet time supplied; Forasmuch as we out of our desire to preserue and increase our Woods, of our Princely care haue hitherto forborne to draw any benefit to our selues by sale thereof, And also for that we finde, that by the practises aforesaid, and other the like, our said Woods are dayly more wasted, spoiled, and defaced, then if we did make an yeerely compe<g ref="char:EOLhyphen"/>tent Reuenue of the same: Wee therefore (as respectiue of the good of our posterities, as our owne) haue endeuoured to take course to stop the laid abuses, and all others too long practised, and to worke the meanes not only of better preseruation of our said Woods in times to come, but also of a present multiplication and increase of Timber and Wood to all future ages. And to the end that our care may appeare to extend to the preseruation and increase of Timber, aswell in generall to others, as to our selues, We haue thought meete by this our Proclamation, not onely to diuulge our special pleasure touching our owne Woods, But also strictly to command &amp; charge all our louing Subiects in generall, That in their owne Woods they presume not hereafter to de<g ref="char:EOLhyphen"/>fraud the true meaning of our Statutes in those cases prouided, by cutting and falling the yong storers, when they vsually fel their Vnderwoods, which the Statute intended and appointed to be altogether preserued for Timber: Wherein if they shalbe found to offend, they are to expect no fauour, as doing an apparant wrong to the Common wealth, besides the breach of Law, and our Royall commandement.</p>
+            <p>And wee doe also straitly command all our louing Subiects, That for auoyding of future spoiles, they nor any of them presume from henceforth to commit any Act, vnder whatsoeuer co<g ref="char:EOLhyphen"/>lour or pretence, not warranted by the true intent of our Lawes, or the Grants made vnto them, whereby our said Woods may be diminished, defaced or abused. And further, that neither our Keepers of Walkes, or Rangers, or other Officer or Officers whatsoeuer, in Forrests, Chaces or Parks, doe vnder colour of Browse for our Deere, Fee wood or fuell for themselues, or other pre<g ref="char:EOLhyphen"/>tence whatsoeuer, presume to cut or take more then shall necessarily suffice, without wastfull expence or colourable sale; Neither that they nor any of them, nor any other Subiect whatsoeuer, aduenture to head or shred any Timber tree or Trees, but to take onely such loppes for Browse,
+<pb facs="tcp:187195:2"/> as the Trees which haue bene vsually lopped shall affoord, and that not in greater proportion then is meete and necessary. And that no Inhabitant in or neere any of our Forrests, Chaces or Wasts, cut off the head or principall branches, or spall out, chip, barke or girt the bodies of any Timber tree, or likely to proue Timber tree, nor to cut or take any yong saplings of Oake, Elme, Ashe, Beech, or any other Tree likely to prooue Timber, growing in any of our said Forrests, Chaces or Wasts, nor to enter into any of our Coppises or Vnderwoods, to cut, spoile or waste the same vnder any pretence or colour, except it be for necessary vses, and the same lawfully war<g ref="char:EOLhyphen"/>ranted. And that no Tenant of any our Honors, Mannors, Lordships or Lands, Lessee or Co<g ref="char:EOLhyphen"/>piholder, doe take any Timber for Building, or decaying Tree for their fuell, nor any Steward, Bailiffe, Reeue, or other Officer, doe assigne any Tree or Trees for any vse, but that hee and they see good warrant from our Treasourer or Chanceller of our Exchequer, or Duchie respec<g ref="char:EOLhyphen"/>tiuely, except in small reparations which may require haste, Or such as may bee amended with an allowance of a Tree, two, three or foure at the most. In which cases the Surueyors of the Woods of that County, or Steward of the Mannour, or three of the better sort of the Tenants of the said Maunour, dwelling in or neere the same, shall and may view and consider of the cause of the said reparation or allowance, and alott vnto them supply without such vnlawfull practises of fauour or partialitie, as haue bene too common and frequent. Vnto which view and allow<g ref="char:EOLhyphen"/>ance, if it be made by the said Surueyour of the Woods, or Steward of the Mannour, some three of the better sort of the said Tenants, if there be so many, or fewer, where there bee not so many, shalbe also made parties and acquainted therewith, And thereupon such allowance being from time to time by such Warrant or assignment made, we doe straitly charge and commaund the same to bee at the next Court of the said Mannour by the said Tenants presented vpon their Oathes, that shall so view the said wants, or shalbe acquainted with the same, Setting downe in writing what and how many Trees haue bene deliuered, vpon what land, to whom, and to what vses, and specially by what Warrant, And whether the same were necessary or not, the same to be done truely and without partialitie, as they will answere the contrary.</p>
+            <p>And furthermore, whereas for the better maintenance &amp; present supply of the especiall wants of our Nauie, wee haue appointed and authorised our Officers of the same, by some skilfull and expert persons by them to bee chosen for that purpose, to elect and make choice in euery of our Counties assigned for present sale, all such Timber and Trees, as by the Commissions to them directed, and the seuerall Articles therein contained, shalbe thought fit to be reserued for the espe<g ref="char:EOLhyphen"/>ciall vse of our said Nauie, and the same to marke for that purpose; We doe now likewise by these presents straitly charge and command, aswell all our seuerall Officers within our seuerall For<g ref="char:EOLhyphen"/>rests, Parkes, Chaces, Mannours and Lands, as all other our louing Subiects to whom in any sort it may appertaine, that neither they nor any of them, doe at any time hereafter cut or lop, or suffer to be cut or lopped, any Trees appointed and marked by our said Officers, or any of them, to and for the vse of our Nauie, for any other vse whatsoeuer, notwithstanding any Warrant that shall bee produced or pretended for the same, except the same Warrant be signed with our owne Royall hand.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen vnder our hand at Royston</hi>
+                  <date>
+                     <hi>the xiiij. day of February, in the sixt yeere of our Reigne of great Britaine, France and Ireland.</hi>
+                  </date>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by the Deputies of Robert Barker, <hi>Printer to the Kings most Excellent Maiestie. Anno</hi> 1608.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
